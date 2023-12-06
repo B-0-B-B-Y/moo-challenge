@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Water Bottle",
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Dusty Pink",
+            "Cloudy Grey",
+            "Alpine Green",
+            "Midnight Blue",
+            "Jet Black"
+          ]
+        },
+        {
+          "name": "Finish",
+          "values": [
+            {
+              "name": "360 wrap print",
+              "price": 50
+            },
+            {
+              "name": "One-sided printing",
+              "price": 45
+            },
+            {
+              "name": "One-sided engraving",
+              "price": 45
+            }
+          ]
+        }
+      ],
+      "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers."
+    }
+  ]
+}

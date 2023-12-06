@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Water Bottle",
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Dusty Pink",
+            "Cloudy Grey",
+            "Alpine Green",
+            "Midnight Blue",
+            "Jet Black"
+          ]
+        },
+        {
+          "name": "Finish",
+          "values": [
+            {
+              "id": "water-bottle-360-wrap",
+              "name": "360 wrap print",
+              "price": 50,
+              "description": "Worth every penny"
+            },
+            {
+              "id": "water-bottle-print",
+              "name": "One-sided printing",
+              "price": 45
+            },
+            {
+              "id": "water-bottle-engraving",
+              "name": "One-sided engraving",
+              "price": 45,
+              "depth": 15
+            }
+          ]
+        },
+        {
+          "name": "Material",
+          "values": [
+            {
+              "name": "metal",
+              "price": 60
+            },
+            {
+              "name": "plastic",
+              "price": 55
+            }
+          ]
+        },
+        {
+          "name": "Capacity",
+          "values": [500, 650, 750, 1000, 1500, 3000]
+        }
+      ],
+      "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers."
+    },
+    {
+      "id": 2,
+      "name": "Business Card",
+      "options": [
+        {
+          "name": "Size",
+          "values": ["6cm x 9cm", "8cm x 12cm", "10cm x 14cm"]
+        },
+        {
+          "name": "Paper",
+          "values": [
+            {
+              "name": "150GSM",
+              "price": 30,
+              "gloss": true
+            },
+            {
+              "name": "300GSM",
+              "price": 45,
+              "gloss": false
+            },
+            {
+              "name": "450GSM",
+              "price": 60,
+              "gloss": false,
+              "description": "This is unnecessary but why not go for the max option anyway?"
+            }
+          ]
+        }
+      ],
+      "description": "When you mean business, you better have a classy business card"
+    }
+  ]
+}

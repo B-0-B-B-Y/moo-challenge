@@ -1,0 +1,137 @@
+[
+  {
+    "id": "cbc75708-6d37-4d5c-90f5-54373159f70d",
+    "parentProductId": 1,
+    "parentProductName": "Water Bottle",
+    "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers.",
+    "price": 50,
+    "color": "Dusty Pink",
+    "finish": "360 wrap print"
+  },
+  {
+    "id": "d7c06735-016c-496c-a3a5-11b76e31ca8d",
+    "parentProductId": 1,
+    "parentProductName": "Water Bottle",
+    "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers.",
+    "price": 45,
+    "color": "Dusty Pink",
+    "finish": "One-sided printing"
+  },
+  {
+    "id": "1a3ae6f7-06f1-47dc-8b57-0c21f5a3e52b",
+    "parentProductId": 1,
+    "parentProductName": "Water Bottle",
+    "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers.",
+    "price": 45,
+    "color": "Dusty Pink",
+    "finish": "One-sided engraving"
+  },
+  {
+    "id": "6436ffc1-bc0f-4282-bdf3-8bffc2b58a85",
+    "parentProductId": 1,
+    "parentProductName": "Water Bottle",
+    "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers.",
+    "price": 50,
+    "color": "Cloudy Grey",
+    "finish": "360 wrap print"
+  },
+  {
+    "id": "77e886d9-600e-45dd-8180-a3dfb3175ef6",
+    "parentProductId": 1,
+    "parentProductName": "Water Bottle",
+    "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers.",
+    "price": 45,
+    "color": "Cloudy Grey",
+    "finish": "One-sided printing"
+  },
+  {
+    "id": "dd6529b8-4d14-4240-8d41-004d13234c49",
+    "parentProductId": 1,
+    "parentProductName": "Water Bottle",
+    "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers.",
+    "price": 45,
+    "color": "Cloudy Grey",
+    "finish": "One-sided engraving"
+  },
+  {
+    "id": "c8656cac-5f7e-443c-8677-25600f13c336",
+    "parentProductId": 1,
+    "parentProductName": "Water Bottle",
+    "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers.",
+    "price": 50,
+    "color": "Alpine Green",
+    "finish": "360 wrap print"
+  },
+  {
+    "id": "eebd4156-d946-4949-85bb-8e3d773297be",
+    "parentProductId": 1,
+    "parentProductName": "Water Bottle",
+    "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers.",
+    "price": 45,
+    "color": "Alpine Green",
+    "finish": "One-sided printing"
+  },
+  {
+    "id": "36c102b7-a0c9-4a8f-8f6b-681728756d23",
+    "parentProductId": 1,
+    "parentProductName": "Water Bottle",
+    "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers.",
+    "price": 45,
+    "color": "Alpine Green",
+    "finish": "One-sided engraving"
+  },
+  {
+    "id": "f43b06d4-9264-47b9-bda5-b90643235af7",
+    "parentProductId": 1,
+    "parentProductName": "Water Bottle",
+    "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers.",
+    "price": 50,
+    "color": "Midnight Blue",
+    "finish": "360 wrap print"
+  },
+  {
+    "id": "d70fe5c8-d399-44cc-833f-c8991bc87723",
+    "parentProductId": 1,
+    "parentProductName": "Water Bottle",
+    "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers.",
+    "price": 45,
+    "color": "Midnight Blue",
+    "finish": "One-sided printing"
+  },
+  {
+    "id": "549cd420-a712-428a-842c-7f9b7bc87cb9",
+    "parentProductId": 1,
+    "parentProductName": "Water Bottle",
+    "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers.",
+    "price": 45,
+    "color": "Midnight Blue",
+    "finish": "One-sided engraving"
+  },
+  {
+    "id": "ac29e613-f01c-45a7-aed5-a76e28158bd9",
+    "parentProductId": 1,
+    "parentProductName": "Water Bottle",
+    "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers.",
+    "price": 50,
+    "color": "Jet Black",
+    "finish": "360 wrap print"
+  },
+  {
+    "id": "798bbf4a-4adc-41b5-be40-925d66348657",
+    "parentProductId": 1,
+    "parentProductName": "Water Bottle",
+    "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers.",
+    "price": 45,
+    "color": "Jet Black",
+    "finish": "One-sided printing"
+  },
+  {
+    "id": "e95d482d-c261-4117-b9d8-433330531d36",
+    "parentProductId": 1,
+    "parentProductName": "Water Bottle",
+    "description": "Designed to keep drinks hot or cold - and your brand on everyone's lips. An ideal gift for employees, clients, and customers.",
+    "price": 45,
+    "color": "Jet Black",
+    "finish": "One-sided engraving"
+  }
+]
