@@ -47,7 +47,7 @@ directory with the specified output JSON file name
 For the coding task itself, if the script is ran without any parameters, the example data that can be inferred from the coding task description will be used, which is what is contained in the file `data/input-data.json`. The output will be in `results/generated-variants-with-base-data.json`.
 
 I've created an expanded data set with more than 1 products, for which the input data can be found inside `data/expanded-data.json`.
-To run that specific data set, the following complete command can be used: `yarn ts-node generate_variants.ts --in expanded-data.json --name generated-variants-with-expanded-data --out ./results`. The results can be seen in the subsequently created `results/generated-variants-with-expanded-data.json` file.
+To run that specific data set, the following complete command can be used: `yarn ts-node generate_variants.ts --in data/expanded-data.json --name generated-variants-with-expanded-data --out ./results`. The results can be seen in the subsequently created `results/generated-variants-with-expanded-data.json` file.
 
 ## Running unit tests
 
