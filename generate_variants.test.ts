@@ -138,9 +138,9 @@ describe('printHelp', () => {
 
     If no arguments are given, the input file and output file directory and name are populated with default values.
 
-    Input file default value: input-data.json
-    Output directory default: .
-    Output file name: variants.json
+    Input file default value: data/input-data.json
+    Output directory default: results/
+    Output file name: generated-variants-with-base-data.json
 
     The following options are available:
 

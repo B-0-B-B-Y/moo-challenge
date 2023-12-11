@@ -23,17 +23,17 @@ directory with the specified output JSON file name
 
     If no arguments are given, the input file and output file directory and name are populated with default values.
 
-    Input file default value: input-data.json
-    Output directory default: .
-    Output file name: variants.json
+    Input file default value: data/input-data.json
+    Output directory default: results/
+    Output file name: generated-variants-with-base-data.json
 
     The following options are available:
 
-    --in        Specify the directory + name of the input data file, e.g. ./home/test/products.json . Defaults to ./input-data.json
+    --in        Specify the directory + name of the input data file, e.g. ./home/test/products.json . Defaults to "data/input-data.json"
 
-    --name      Specify the name of the output JSON file. Note that you don't need to add the file extension yourself. Defaults to "variants".
+    --name      Specify the name of the output JSON file. Note that you don't need to add the file extension yourself. Defaults to "generated-variants-with-base-data".
 
-    --out       Specify the output directory for the JSON file. Defaults to the current working directory.
+    --out       Specify the output directory for the JSON file. Defaults to the "results/" directory.
 
     -h, --help  Print this help menu
 ```
