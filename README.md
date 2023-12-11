@@ -40,7 +40,7 @@ directory with the specified output JSON file name
 
 ## Example
 
-`yarn ts-node generate_variants.ts` => This will assume the input data is located at `./input-data.json` and the output will be to `./variants.json`
+`yarn ts-node generate_variants.ts` => This will assume the input data is located at `./data/input-data.json` and the output will be to `./results/generated-variants-with-base-data.json`
 
 ## Explanation of results
 
